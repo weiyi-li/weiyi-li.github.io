@@ -1,10 +1,10 @@
-## 电子电气专业2020fall研究生申请复盘
+## Weiyi Li 李伟逸
 
-You can use the [editor on GitHub](https://github.com/weiyi-li/weiyi-li.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+li.wy@outlook.com | +86 13605163063
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Education
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
