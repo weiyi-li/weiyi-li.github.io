@@ -2,7 +2,7 @@
 
 li.wy@outlook.com | +86 13605163063
 
-Incoming graduate student in Electrical and Computer Engineering at the University of Washington, Seattle. Interested in software development and image processing.
+Incoming graduate student in Medical Robotics at the Imperial College London. Interested in hardware development and image processing.
 
 ### Education
 
