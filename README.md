@@ -12,4 +12,4 @@ Incoming graduate student in Medical Robotics at Imperial College London. Intere
 
 ### Blog
 
-[XJTLU EE生存指南+电子电气专业2020研究生申请复盘](weiyi-li.github.io/blog)
+[XJTLU EE生存指南+电子电气专业2020研究生申请复盘](weiyi-li.github.io/blog/)
