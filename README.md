@@ -2,7 +2,7 @@
 
 li.wy@outlook.com | +86 13605163063
 
-Incoming graduate student in Medical Robotics at Imperial College London. Interested in hardware development and image processing.
+Research postgraduate student in Medical Robotics at Imperial College London. Interested in hardware development and image processing.
 
 ### Education
 
