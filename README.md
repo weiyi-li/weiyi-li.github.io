@@ -2,7 +2,7 @@
 
 li.wy@outlook.com | +86 13605163063
 
-Research postgraduate student in Medical Robotics at Imperial College London. Interested in hardware development and image processing.
+Incoming system engineer at Philips. Research postgraduate student in Medical Robotics at Imperial College London. Interested in healthcare technology, robotics and AI.
 
 ### Education
 
