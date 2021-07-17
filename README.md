@@ -1,6 +1,6 @@
 ## Weiyi Li 李伟逸
 
-li.wy@outlook.com | +86 13605163063 | [GitHub](https://github.com/weiyi-li) | [Zhihu](https://www.zhihu.com/people/li-wei-yi-86-54)
+li.wy@outlook.com | [GitHub](https://github.com/weiyi-li) | [Zhihu](https://www.zhihu.com/people/li-wei-yi-86-54)
 
 Incoming system engineer at Philips. Research postgraduate student in Medical Robotics at Imperial College London. Interested in healthcare technology, robotics and AI.
 
