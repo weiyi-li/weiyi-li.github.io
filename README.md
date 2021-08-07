@@ -17,5 +17,5 @@ _Journal Article_ | S. Bai, K. Guy, Y. Jia, **W. Li**, Q. Li, X. Yang, "Heat Dis
 ### Blog
 
 [XJTLU EE生存指南+电子电气专业2020研究生申请复盘](https://weiyi-li.github.io/blog/)  
-[疫情下的伦敦：帝国理工学院医疗机器人硕士半年就读总结+一轮校招复盘](https://zhuanlan.zhihu.com/p/339570809)  
+[疫情下的伦敦：帝国理工学院医疗机器人硕士半年就读总结](https://zhuanlan.zhihu.com/p/339570809)  
 [2021届硬件/医疗/图像/机器人向中英校招总结+找工情况](https://zhuanlan.zhihu.com/p/379415341)  
