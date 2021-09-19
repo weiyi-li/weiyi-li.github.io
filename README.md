@@ -2,7 +2,7 @@
 
 li.wy@outlook.com | [GitHub](https://github.com/weiyi-li) | [Zhihu](https://www.zhihu.com/people/li-wei-yi-86-54) | [LinkedIn](https://www.linkedin.com/in/weiyi-li-b56aa116a)
 
-Incoming system engineer at Philips. Research postgraduate student in Medical Robotics at Imperial College London. Interested in healthcare technology, robotics and AI.
+Incoming system engineer at Philips R&D (Suzhou). Research postgraduate student in Medical Robotics at Imperial College London. Interested in healthcare technology, robotics and AI.
 
 ### Education
 
