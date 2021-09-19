@@ -6,16 +6,16 @@ Incoming system engineer at Philips. Research postgraduate student in Medical Ro
 
 ### Education
 
-2020.10-2021.10 | MRes, Medical Robotics and Image Guided Intervention, Imperial College London, UK  
+* 2020.10-2021.10 | MRes, Medical Robotics and Image Guided Intervention, Imperial College London, UK  
 _Thesis_: Learning-based Modeling and Control of the _Micro-IGES_ Surgical Robot  
-2020.7 | BEng (Hons), Electronic Science and Technology, University of Liverpool, UK  
-2016.9-2020.7 | BEng, Electronic Science and Technology, Xi'an Jiaotong-Liverpool University, Suzhou, China  
+* 2020.7 | BEng (Hons), Electronic Science and Technology, University of Liverpool, UK  
+* 2016.9-2020.7 | BEng, Electronic Science and Technology, Xi'an Jiaotong-Liverpool University, Suzhou, China  
 _Thesis_: Image Style Transfer using Generative Adversarial Networks
 
 ### Publication
 
-_Poster_ | **W. Li**, F. Cursi, W. Bai, G. Mylonas, "Learning-based Modeling and Control of Micro-IGES Surgical Robot", _The Hamlyn Symposium on Medical Robotics 2021_. DOI: 10.13140/RG.2.2.16943.87206  
-_Journal Article_ | S. Bai, K. Guy, Y. Jia, **W. Li**, Q. Li, X. Yang, "Heat Dissipation Performance of Microchannel Heat Sink with Various Protrusion Designs", _Journal of Advances in Mathematics_, vol. 20, pp. 240–249, Jun. 2021. DOI: 10.24297/jam.v20i.9037  
+* _Poster_ | **W. Li**, F. Cursi, W. Bai, G. Mylonas, "Learning-based Modeling and Control of Micro-IGES Surgical Robot", _The Hamlyn Symposium on Medical Robotics 2021_. DOI: 10.13140/RG.2.2.16943.87206  
+* _Journal Article_ | S. Bai, K. Guy, Y. Jia, **W. Li**, Q. Li, X. Yang, "Heat Dissipation Performance of Microchannel Heat Sink with Various Protrusion Designs", _Journal of Advances in Mathematics_, vol. 20, pp. 240–249, Jun. 2021. DOI: 10.24297/jam.v20i.9037  
 ### Blog
 
 [XJTLU EE生存指南+电子电气专业2020研究生申请复盘](https://weiyi-li.github.io/blog/)  
