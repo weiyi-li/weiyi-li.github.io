@@ -6,9 +6,9 @@ Incoming system engineer at Philips. Research postgraduate student in Medical Ro
 
 ### Education
 
-2020.10-2021.10 | MRes, Medical Robotics and Image Guided Intervention, Imperial College London, UK  
+2020.10-2021.10 | MRes, Medical Robotics and Image Guided Intervention, Imperial College London, UK  _Thesis_: Learning-based Modeling and Control of the _Micro-IGES_ Surgical Robot
 2020.7 | BEng (Hons), Electronic Science and Technology, University of Liverpool, UK  
-2016.9-2020.7 | BEng, Electronic Science and Technology, Xi'an Jiaotong-Liverpool University, Suzhou, China  
+2016.9-2020.7 | BEng, Electronic Science and Technology, Xi'an Jiaotong-Liverpool University, Suzhou, China  _Thesis_: Image Style Transfer using Generative Adversarial Networks
 
 ### Publication
 
