@@ -6,11 +6,12 @@ System engineer at Philips R&D (Suzhou). Research postgraduate student in Medica
 
 ### Professional
 
-* 2021.11- | System Engineer, CT R&D, Philips  
-
-* 2021.10-2021.11 | System Engineering Intern, CT R&D, Philips  
-
-* 2019.7-2019.8 | Intern, Commercial & Residential Solutions, Emerson  
+* 2021.11- | CT R&D, Philips  
+System Engineer
+* 2021.10-2021.11 | CT R&D, Philips  
+System Engineering Intern
+* 2019.7-2019.8 | Commercial & Residential Solutions, Emerson  
+Intern
 
 ### Education
 
