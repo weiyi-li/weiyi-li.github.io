@@ -17,7 +17,7 @@ _Thesis_: Image Synthesis using Generative Adversarial Networks
 
 _Poster_ | **W. Li**, F. Cursi, W. Bai, G. Mylonas, "Learning-based Modeling and Control of Micro-IGES Surgical Robot", _The Hamlyn Symposium on Medical Robotics 2021_. DOI: 10.13140/RG.2.2.16943.87206  
 _Journal Article_ | S. Bai, K. Guy, Y. Jia, **W. Li**, Q. Li, X. Yang, "Heat Dissipation Performance of Microchannel Heat Sink with Various Protrusion Designs", _Journal of Advances in Mathematics_, vol. 20, pp. 240–249, Jun. 2021. DOI: 10.24297/jam.v20i.9037  
-### Blog
+### [Blog](https://weiyi-li.github.io/blog/)  
 #### 体验向blog  
 [20fall/21spring 非顶尖选手多国EE硕士申请总结](https://zhuanlan.zhihu.com/p/345559376)  
 [疫情下的伦敦：帝国理工学院医疗机器人硕士半年就读总结](https://zhuanlan.zhihu.com/p/339570809)  
