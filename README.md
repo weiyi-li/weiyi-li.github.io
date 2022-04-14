@@ -31,3 +31,6 @@ _Journal Article_ | S. Bai, K. Guy, Y. Jia, **W. Li**, Q. Li, X. Yang, "Heat Dis
 [帝国理工非正统专业“自救”选择](https://github.com/weiyi-li/blog/blob/master/ICL_Interdisciplinary_Program_Guide.md)  
 [研究型硕士和授课型硕士科普](https://github.com/weiyi-li/blog/blob/master/Taught_and_Research_Master_Intro.md)  
 
+#### 生活攻略向blog
+[【英国学生签证攻略】南京Tier4签证全流程2020](https://github.com/weiyi-li/blog/blob/master/UK_Tier4_Visa_Tips.md)  
+
