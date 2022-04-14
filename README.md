@@ -4,6 +4,12 @@ li.wy@outlook.com | [GitHub](https://github.com/weiyi-li) | [Zhihu](https://www.
 
 System engineer at Philips R&D (Suzhou). Research postgraduate student in Medical Robotics at Imperial College London. Interested in healthcare technology, robotics and AI.
 
+### Professional
+
+* 2021.11- | System Engineer, CT R&D, Philips  
+* 2021.10-2021.11 | System Engineering Intern, CT R&D, Philips  
+* 2019.7-2019.8 | Intern, Commercial & Residential Solutions, Emerson  
+
 ### Education
 
 * 2020.10-2021.10 | MRes, Medical Robotics and Image Guided Intervention, Imperial College London, UK  
