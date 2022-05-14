@@ -44,4 +44,5 @@ _Journal Article_ | S. Bai, K. Guy, Y. Jia, **W. Li**, Q. Li, X. Yang, "Heat Dis
 
 #### 生活攻略向blog
 [【英国学生签证攻略】南京Tier4签证全流程2020](https://github.com/weiyi-li/blog/blob/master/UK_Tier4_Visa_Tips.md)  
+[【苏州园区】毕业生政府补贴申请攻略](https://github.com/weiyi-li/blog/blob/master/Gov_Allowance_Application.md)  
 
