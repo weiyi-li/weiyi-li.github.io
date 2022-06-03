@@ -6,20 +6,20 @@ I am currently a full-time system engineer at Philips R&D (Suzhou). I graduated 
 
 ### Professional
 
-* 2021.11- | CT R&D, Philips  
+* 2021.11- | CT R&D, **Philips**  
 System Engineer
-* 2021.10-2021.11 | CT R&D, Philips  
+* 2021.10-2021.11 | CT R&D, **Philips**  
 System Engineering Intern
-* 2019.7-2019.8 | Commercial & Residential Solutions, Emerson  
+* 2019.7-2019.8 | Commercial & Residential Solutions, **Emerson**  
 Intern
 
 ### Education
 
-* 2020.10-2021.10 | MRes, Medical Robotics and Image Guided Intervention, Imperial College London, UK  
+* 2020.10-2021.10 | MRes, Medical Robotics and Image Guided Intervention, **Imperial College London**, UK  
 _Thesis_: Learning-based Modeling and Control of the _Micro-IGES_ Surgical Robot  
-* 2020.7 | BEng (Hons), Electronic Science and Technology, University of Liverpool, UK  
+* 2020.7 | BEng (Hons), Electronic Science and Technology, **University of Liverpool**, UK  
 _Joint degree with XJTLU_
-* 2016.9-2020.7 | BEng, Electronic Science and Technology, Xi'an Jiaotong-Liverpool University, Suzhou, China  
+* 2016.9-2020.7 | BEng, Electronic Science and Technology, **Xi'an Jiaotong-Liverpool University**, Suzhou, China  
 _Thesis_: Image Synthesis using Generative Adversarial Networks
 
 ### Publications
