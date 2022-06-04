@@ -31,6 +31,7 @@ DOI: 10.13140/RG.2.2.16943.87206
 * _Journal Article_ | S. Bai, K. Guy, Y. Jia, **W. Li***, Q. Li, X. Yang, "Heat Dissipation Performance of Microchannel Heat Sink with Various Protrusion Designs", _Journal of Advances in Mathematics_, vol. 20, pp. 240–249, Jun. 2021.  
 DOI: 10.24297/jam.v20i.9037  
 **“*”** means co-first author
+
 ### [Blog](https://weiyi-li.github.io/blog/)  
 #### 体验向blog  
 [20fall/21spring 非顶尖选手多国EE硕士申请总结](https://zhuanlan.zhihu.com/p/345559376)  
