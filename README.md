@@ -16,9 +16,9 @@ Intern
 ### Qualifications
 
 * 2020.10-2021.10 | MRes, Medical Robotics and Image Guided Intervention, **Imperial College London**, UK  
-_Thesis_: Learning-based Modeling and Control of the _Micro-IGES_ Surgical Robot  
+_Thesis_: Learning-based Modeling and Control of the _Micro-IGES_ Surgical Robot, graduated with Distinction  
 * 2020.7 | BEng (Hons), Electronic Science and Technology, **University of Liverpool**, UK  
-_Joint degree with XJTLU_
+_Joint degree with XJTLU_, graduated with First Class
 * 2016.9-2020.7 | BEng, Electronic Science and Technology, **Xi'an Jiaotong-Liverpool University**, Suzhou, China  
 _Thesis_: Image Synthesis using Generative Adversarial Networks
 
