@@ -13,7 +13,7 @@ System Engineering Intern
 * 2019.7-2019.8 | Commercial & Residential Solutions, **Emerson**  
 Intern
 
-### Education
+### Qualifications
 
 * 2020.10-2021.10 | MRes, Medical Robotics and Image Guided Intervention, **Imperial College London**, UK  
 _Thesis_: Learning-based Modeling and Control of the _Micro-IGES_ Surgical Robot  
