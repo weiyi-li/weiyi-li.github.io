@@ -28,7 +28,7 @@ _Thesis_: Image Synthesis using Generative Adversarial Networks
 
 * _Conf._ | F. Cursi, W. Bai, **W. Li**, E. Yeatman, P. Kormushev, "Augmented Neural Network for Full Robot Kinematic Modelling in SE(3) and SO(3)", _2022 IEEE/RSJ Int. Conf. Intelligent Robots and Systems_ (IROS 2022), Kyoto, Japan, Oct. 23-27, 2022.  
 RA-L & IROS joint submission   
-* _Journal Article_ | F. Cursi, W. Bai, **W. Li**, E. Yeatman, P. Kormushev, "Augmented Neural Network for Full Robot Kinematic Modelling in SE(3)", _IEEE Robotics and Automation Letters_, vol. 7, no. 3, pp. 7140-7147, Jul. 2022.   
+* _Journal Article_ | F. Cursi, W. Bai, **W. Li**, E. Yeatman, P. Kormushev, "Augmented Neural Network for Full Robot Kinematic Modelling in SE(3)", _IEEE Robotics and Automation Letters_ (RA-L), vol. 7, no. 3, pp. 7140-7147, Jul. 2022.   
 DOI: 10.1109/LRA.2022.3180428  
 * _Poster_ | **W. Li**, F. Cursi, W. Bai, G. Mylonas, "Learning-based Modeling and Control of Micro-IGES Surgical Robot", _The Hamlyn Symposium on Medical Robotics 2021_.   
 DOI: 10.13140/RG.2.2.16943.87206  
