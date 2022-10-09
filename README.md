@@ -7,7 +7,7 @@ I am currently a full-time system engineer at Philips R&D (Suzhou). I graduated 
 ### Professional
 
 * 2021.11- | CT R&D, **Philips**  
-System Engineer
+System Engineer, CT-guided intervention, interventional controls lead
 * 2021.10-2021.11 | CT R&D, **Philips**  
 System Engineering Intern
 * 2019.7-2019.8 | Commercial & Residential Solutions, **Emerson**  
