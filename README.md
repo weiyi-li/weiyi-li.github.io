@@ -60,4 +60,4 @@ DOI: 10.24297/jam.v20i.9037
 [【苏州园区】毕业生政府补贴申请攻略](https://github.com/weiyi-li/blog/blob/master/Gov_Allowance_Application.md)  
 
 #### 爱好向blog
-[【建筑】东北近代建筑巡礼](https://zhuanlan.zhihu.com/p/571878338)  
+[【建筑】东北日俄伪满时期近代建筑巡礼](https://zhuanlan.zhihu.com/p/571878338)  
