@@ -61,3 +61,9 @@ DOI: 10.24297/jam.v20i.9037
 
 #### 爱好向blog
 [【建筑】东北日俄伪满时期近代建筑巡礼](https://zhuanlan.zhihu.com/p/571878338)  
+
+### Hobbies
+* Music
+* Lego
+* Sci-fi (especially Liu Cixin and Tokusatsu)
+* Traveling 
