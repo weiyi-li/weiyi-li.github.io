@@ -69,4 +69,4 @@ DOI: 10.24297/jam.v20i.9037
 * Lego
 * Sci-fi (especially Liu Cixin and Tokusatsu)
 * Traveling 
-* Disneyland and Universal Studio (Visited Universal Studios in all countries except for Singapore)
+* Disneyland and Universal Studio (visited Universal Studios in all countries except for Singapore)
