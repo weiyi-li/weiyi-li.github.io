@@ -14,7 +14,8 @@ System Engineering Intern
 Intern
 
 ### Qualifications
-
+* 2023.9-2027.9 (Expected) | PhD (Incoming), Digital Health and Care, **University of Bristol**, UK  
+EPSRC sponsorship
 * 2020.10-2021.10 | MRes, Medical Robotics and Image Guided Intervention, **Imperial College London**, UK  
 Graduated with Distinction  
 _Thesis_: Learning-based Modeling and Control of the _Micro-IGES_ Surgical Robot  
