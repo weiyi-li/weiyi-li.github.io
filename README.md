@@ -2,19 +2,10 @@
 
 li.wy@outlook.com | [GitHub](https://github.com/weiyi-li) | [Zhihu](https://www.zhihu.com/people/li-wei-yi-86-54) | [LinkedIn](https://www.linkedin.com/in/weiyi-li-b56aa116a)
 
-I am currently a full-time system engineer at Philips R&D (Suzhou). I graduated with a research master's degree in Medical Robotics from Imperial College London. I am interested in healthcare innovation, medical robotics and AI.
+I am currently a fresh PhD student at University of Bristol, UK. I once worked as a full-time system engineer at Philips R&D (Suzhou). I graduated with a research master's degree in Medical Robotics from Imperial College London. I am interested in healthcare innovation, medical robotics and AI.
 
-### Professional
-
-* 2021.11- | CT R&D, **Philips**  
-System Engineer, CT-guided intervention, interventional controls lead
-* 2021.10-2021.11 | CT R&D, **Philips**  
-System Engineering Intern
-* 2019.7-2019.8 | Commercial & Residential Solutions, **Emerson**  
-Intern
-
-### Qualifications
-* 2023.9-2027.9 (Expected) | PhD (Incoming), Digital Health and Care, **University of Bristol**, UK  
+### Education
+* 2023.9-2027.9 | PhD, Digital Health and Care, **University of Bristol**, UK  
 EPSRC sponsorship
 * 2020.10-2021.10 | MRes, Medical Robotics and Image Guided Intervention, **Imperial College London**, UK  
 Graduated with Distinction  
@@ -24,6 +15,15 @@ Graduated with First Class
 _Joint degree with XJTLU_  
 * 2016.9-2020.7 | BEng, Electronic Science and Technology, **Xi'an Jiaotong-Liverpool University**, Suzhou, China  
 _Thesis_: Image Synthesis using Generative Adversarial Networks
+
+### Professional
+
+* 2021.11-2023.7 | CT R&D, **Philips**  
+System Engineer, CT-guided intervention, interventional controls lead
+* 2021.10-2021.11 | CT R&D, **Philips**  
+System Engineering Intern
+* 2019.7-2019.8 | Commercial & Residential Solutions, **Emerson**  
+Intern
 
 ### Publications
 
