@@ -2,11 +2,12 @@
 
 li.wy@outlook.com | [GitHub](https://github.com/weiyi-li) | [Zhihu](https://www.zhihu.com/people/li-wei-yi-86-54) | [LinkedIn](https://www.linkedin.com/in/weiyi-li-b56aa116a)
 
-I am currently a fresh PhD student at University of Bristol, UK. I once worked as a full-time system engineer at Philips R&D (Suzhou). I graduated with a research master's degree in Medical Robotics from Imperial College London. I am interested in healthcare innovation, medical robotics and AI.
+I am currently a second year PhD student at University of Bristol, UK. I once worked as a full-time system engineer at Philips R&D (Suzhou). I graduated with a research master's degree in Medical Robotics from Imperial College London. I am interested in healthcare innovation, medical robotics and AI.
 
 ### Education
 * 2023.9-2027.9 | PhD, Digital Health and Care, **University of Bristol**, UK  
 EPSRC sponsorship
+_Research interest_: simulator for robot-assisted cardiovascular intervention  
 * 2020.10-2021.10 | MRes, Medical Robotics and Image Guided Intervention, **Imperial College London**, UK  
 Graduated with Distinction  
 _Thesis_: Learning-based Modeling and Control of the _Micro-IGES_ Surgical Robot  
@@ -73,7 +74,8 @@ DOI: 10.24297/jam.v20i.9037
 
 ### Hobbies
 * Music
-* Lego
-* Sci-fi (especially Liu Cixin and Tokusatsu)
-* Traveling 
+* Photography
+* Toys and models: Jellycat, Lego, Bandai (Gashapon and Gundam), scale car and train models (Tomica, Tomix, Kato)...
+* Sci-fi (especially Liu Cixin and Tokusatsu)  
+* Traveling  
 * Disneyland and Universal Studio (visited Universal Studios in US/JP/CN except for SG)
