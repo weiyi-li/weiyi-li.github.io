@@ -6,7 +6,7 @@ I am currently a second year PhD student at University of Bristol, UK. I once wo
 
 ## Education
 * 2023.9-2027.9 | PhD, Digital Health and Care, **University of Bristol**, UK  
-EPSRC sponsorship
+EPSRC sponsorship  
 _Research interest_: simulator for robot-assisted cardiovascular intervention  
 * 2020.10-2021.10 | MRes, Medical Robotics and Image Guided Intervention, **Imperial College London**, UK  
 Graduated with Distinction  
