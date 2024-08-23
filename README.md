@@ -62,7 +62,7 @@ DOI: 10.24297/jam.v20i.9037
 #### 硕士阶段  
 [研究型硕士和授课型硕士科普](https://github.com/weiyi-li/blog/blob/master/Taught_and_Research_Master_Intro.md)  
 [帝国理工非正统专业“自救”选择](https://github.com/weiyi-li/blog/blob/master/ICL_Interdisciplinary_Program_Guide.md)  
-### 博士阶段  
+#### 博士阶段  
 [英国博士ATAS两周下](http://xhslink.com/lc6dsU)  
 [英国CDT博士申请科普（有奖）](http://xhslink.com/iWOdsU)  
 [医疗科技向英国CDT项目选校思路](http://xhslink.com/6KSdsU)  
