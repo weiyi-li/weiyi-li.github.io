@@ -5,7 +5,7 @@ li.wy@outlook.com | [GitHub](https://github.com/weiyi-li) | [Zhihu](https://www.
 I am currently a second year PhD student at University of Bristol, UK. I once worked as a full-time system engineer at Philips R&D (Suzhou). I graduated with a research master's degree in Medical Robotics from Imperial College London. I am interested in healthcare innovation, medical robotics and AI.
 
 ## Education
-* 2023.9-2027.9 | PhD, Digital Health and Care, **University of Bristol**, UK  
+* 2023.9-2027.9 | PhD, Digital Health and Care & Bristol Robotics Laboratory, **University of Bristol**, UK  
 EPSRC sponsorship  
 _Research interest_: simulator for robot-assisted cardiovascular intervention  
 * 2020.10-2021.10 | MRes, Medical Robotics and Image Guided Intervention, **Imperial College London**, UK  
