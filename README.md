@@ -1,6 +1,6 @@
 ## Weiyi Li 李伟逸
 
-li.wy@outlook.com | [GitHub](https://github.com/weiyi-li) | [Zhihu](https://www.zhihu.com/people/li-wei-yi-86-54) | [LinkedIn](https://www.linkedin.com/in/weiyi-li-b56aa116a)
+li.wy@outlook.com | [GitHub](https://github.com/weiyi-li) | [Zhihu](https://www.zhihu.com/people/li-wei-yi-86-54) | [LinkedIn](https://www.linkedin.com/in/weiyi-li-b56aa116a) | [RedBook](https://www.xiaohongshu.com/user/profile/5b7d3d06f27da9000170293b?xhsshare=CopyLink&appuid=5b7d3d06f27da9000170293b&apptime=1724451544&share_id=6e28f3ffe3514d73967bfb2c06bcf95d)  
 
 I am currently a second year PhD student at University of Bristol, UK. I once worked as a full-time system engineer at Philips R&D (Suzhou). I graduated with a research master's degree in Medical Robotics from Imperial College London. I am interested in healthcare innovation, medical robotics and AI.
 
