@@ -39,10 +39,10 @@ DOI: 10.24297/jam.v20i.9037
 **“*”** means co-first author
 
 ## [Blog](https://weiyi-li.github.io/blog/)  
-### 体验向blog  
-### 指南向blog  
-### 生活攻略向blog
-### 爱好向blog
+* ### 体验向blog  
+* ### 指南向blog  
+* ### 生活攻略向blog
+* ### 爱好向blog
 
 ## Hobbies
 * Music
